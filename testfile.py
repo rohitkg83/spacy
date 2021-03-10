@@ -1,2 +1,2 @@
-print('hello pycharm!')
+print('hello py!')
 print('hello world')
